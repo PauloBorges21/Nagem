@@ -1,0 +1,10 @@
+{
+    "name": "paulo/nagem",
+    "authors": [
+        {
+            "name": "Paulo Silva Borges",
+            "email": "paulosbzl@gmail.com"
+        }
+    ],
+    "require": {}
+}
